@@ -1,4 +1,4 @@
-package com.appupdater.mghtun
+package com.appupdater.htun
 
 import android.app.Dialog
 import android.content.ActivityNotFoundException

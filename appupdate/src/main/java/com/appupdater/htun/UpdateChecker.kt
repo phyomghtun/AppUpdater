@@ -1,4 +1,4 @@
-package com.appupdater.mghtun
+package com.appupdater.htun
 
 import android.app.Activity
 import android.os.Build
