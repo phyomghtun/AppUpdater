@@ -12,8 +12,8 @@ android {
         applicationId = "com.appupdater.mghtun"
         minSdk = 24
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.0.2"
+        versionCode = 3
+        versionName = "1.0.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -42,7 +42,7 @@ publishing {
 //            from(components["release"])
             groupId = "com.github.phyomghtun"
             artifactId = "AppUpdater"
-            version = "1.0.8"
+            version = "1.0.3"
         }
     }
     repositories {
